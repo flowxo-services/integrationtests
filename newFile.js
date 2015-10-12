@@ -1,1 +1,1 @@
-New JS file commited for testing triggers!
+console.log('New JS file commited for testing triggers!');
